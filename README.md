@@ -1,6 +1,6 @@
 # movies-website
 Movie Website
 
-auth:
-username: 'kminchelle'
-password: '0lelplR'
+Auth:
+- username: 'kminchelle'
+- password: '0lelplR'
