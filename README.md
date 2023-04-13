@@ -24,7 +24,7 @@ API:
 
 version of dependencies: 
 
-  "dependencies": {
+     "dependencies": {
     "@headlessui/react": "^1.7.13",
     "formik": "^2.2.9",
     "react": "^18.2.0",
@@ -34,8 +34,9 @@ version of dependencies:
     "react-router-dom": "^6.9.0",
     "swiper": "^9.1.1",
     "yup": "^1.0.2"
-  },
-  "devDependencies": {
+    },
+  
+     "devDependencies": {
     "@iconify/react": "^4.1.0",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
@@ -44,4 +45,4 @@ version of dependencies:
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.7",
     "vite": "^4.2.0"
-  }
+    }
